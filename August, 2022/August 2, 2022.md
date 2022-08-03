@@ -8,7 +8,7 @@
     - URLSession이 network의 주체, configuration을 보고 세션을 생성함
     - 세션을 생성해서 어떤 일을 할 건지에 따라 task 생성 (dataTask, ..)
     - combine을 이용한 dataTaskPublisher가 있는데 그것을 이용하면 리턴값이 data와 URLResponse의 튜플로 들어옴 (그래서 tryMap으로 data만 분리함)
-
+    <br>
 - `setupUI()`
     - 썸네일 이미지가 동그란 형태이므로, conerRadius 설정
     
@@ -17,7 +17,7 @@
     	  thumbnail.layer.cornerRadius = 80
     }
     ```
-    
+    <br>    
 - `embedSearchControl()`
     - SearchController 삽입
     
@@ -36,7 +36,7 @@
     
     - `searchResultUpdater` 은 searchBar에 한글자 한글자 입력될 때마다 tracking
     - `searchBar.delegate` 는 클릭되었을 때 처리하려고 설정해줌
-    
+    <br>    
 - `bind()`
     - 검색해서 받은 데이터로 프로필이 업데이트 될 수 있도록 컬렉션뷰를 업데이트하는 update() 함수를 내장, 변경사항을 구독할 수 있도록 subscibe 코드 작성
     - 위에 user이라는 변수는 `@Published` 형태로 선언되어 있음
@@ -50,7 +50,7 @@
         }.store(in: &subscriptions)
     }
     ```
-    
+    <br>    
 - `update()`
     - 업데이트 된 데이터를 바탕으로 컬렉션뷰를 업데이트 하는 함수
     
@@ -76,11 +76,11 @@
     
     - kf (KingFish) : url 형태로 들어오는 이미지를 이미지형태로 변환시킴
     - searchBar에 아무것도 검색하지 않고 엔터를 쳤을 경우, user에 nil값이 들어있을 수 있기 때문에 user을 guard let 구문으로 Nil일때의 처리를 해줌
-
+    <br>
 - searchBar에 아이디를 입력하고 Enter 눌렀어! : `searchBar.delegate` 프로토콜의 `searchBarSearchButtonClicked()`
     - keyword : SearchBar에 입력한 텍스트, 비어있는지 확인하기 위해 isEmpty 사용
         - `guard let keyword = searchBar.text ,!keyword.isEmpty else { return }`
-        
+      <br>      
     - Resource
         - URL 구성
             - base : 변하지 않는 url 부분 `let base = "https://api.github.com/"`
@@ -111,7 +111,7 @@
                 
             - request 리턴해주면 끝 !
             - 그러면 이제 자원을 다 만들어서 요청하는 과정까지 끝난 것이당
-            
+    <br>            
     - Network
         - 만들어진 자원을 가지고 dataTaskPublisher를 이용해 데이터를 가져옴
         - networkService class의 load()
@@ -143,6 +143,7 @@
             - 거르기 전에, response가 정상인지 확인하기 위해 statusCode가 200대인지 확인하고 정상이 아니라면 `networkError.responseError(statusCode)` 로 오류를 던져줌
             - 정상이라면 else 구문을 뛰어넘고 result (dataTaskPublisher가 뿌려준 튜플)의 data만 리턴
         - JSONDecoder를 이용해서 decode
+    <br><br>  
         
 
 ## 깃헙 사용자 프로필을 검색하기 (추가 기능) - GithubUserSearch
@@ -161,7 +162,7 @@ SearchBar에서 사용자 아이디를 검색하면, 그 철자가 들어가는 
       collectionView.collectionViewLayout = layout()
     }
     ```
-    
+    <br>    
 - `bind()`
     - users는 배열인데, 배열의 내용이 바뀔때마다 snapshot에 넣어 dataSource에 apply
     
@@ -177,7 +178,7 @@ SearchBar에서 사용자 아이디를 검색하면, 그 철자가 들어가는 
         }.store(in: &subscriptions)
     }
     ```
-    
+    <br>    
 - `searchBarSearchButtonClicked()`
     - Resource는 위와 같지만 params에 내가 입력한 keyword가 param으로 들어감 → 그 철자가 들어간 모든 사용자를 검색할 수 있게 함
         
@@ -189,7 +190,7 @@ SearchBar에서 사용자 아이디를 검색하면, 그 철자가 들어가는 
             header: ["Content-Type" : "application/json"]
         )
         ```
-        
+    <br>        
     
     - Network
         
