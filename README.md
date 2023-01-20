@@ -2,6 +2,7 @@
 <br>
 
 ## **iOS**
+<<<<<<< HEAD
 - [UICollectionView _220714](https://github.com/geniusYoo/TIL/blob/main/iOS/July%2014%2C%202022.md)
 - [UICollectionView - Data, Presentation, Layout _220718](https://github.com/geniusYoo/TIL/blob/main/iOS/July%2018%2C%202022.md)
 - [NavigationView, PageControl _220719](https://github.com/geniusYoo/TIL/blob/main/iOS/July%2019%2C%202022.md)
@@ -10,6 +11,16 @@
 - [Combine _220730](https://github.com/geniusYoo/TIL/blob/main/iOS/July%2030%2C%202022.md)
 - [Network - URLSession _220802](https://github.com/geniusYoo/TIL/blob/main/iOS/August%202%2C%202022.md)
 <h1>
+=======
+- [UICollectionView _220714](https://github.com/geniusYoo/TIL/blob/main/July%2C%202022/July%2014%2C%202022.md)
+- [UICollectionView - Data, Presentation, Layout _220718](https://github.com/geniusYoo/TIL/blob/main/July%2C%202022/July%2018%2C%202022.md)
+- [NavigationView, PageControl _220719](https://github.com/geniusYoo/TIL/blob/main/July%2C%202022/July%2019%2C%202022.md)
+- [DiffableDataSource _220721](https://github.com/geniusYoo/TIL/blob/main/July%2C%202022/July%2021%2C%202022.md)
+- [Modality, Double Section _220724](https://github.com/geniusYoo/TIL/blob/main/July%2C%202022/July%2024%2C%202022.md)
+- [Combine _220730](https://github.com/geniusYoo/TIL/blob/main/July%2C%202022/July%2030%2C%202022.md)
+- [Network - URLSession _220802](https://github.com/geniusYoo/TIL/blob/main/August%2C%202022/August%202%2C%202022.md)
+
+>>>>>>> main
 <br>
 
 ## **node.js**
