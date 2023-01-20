@@ -21,12 +21,14 @@
 
 - Master
     - fork : 워커 생성
+
     - online : 워커 생성 후 동작
     - listening : 워커에 작성한 서버의 listen 이벤트 (client의 접속을 listen)
     - disconnect : 워커 연결 종료
     - exit : 워커 프로세스 종료
 - Worker
     - message : 메세지 이벤트
+
     - disconnect : 워커 연결 종료
     
 <br>
@@ -34,6 +36,7 @@
 ### **Worker**
 
 - 워커 접근 `cluster.worker`
+
 - 워커 식별자 (워커 id) `worker.id`
 - 워커 종료 `worker.kill([signal=’SIGTERM’])`
 
