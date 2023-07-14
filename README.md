@@ -32,7 +32,6 @@
 - 백준
   - [구간 합 구하기 4](https://github.com/geniusYoo/TIL/blob/main/%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4/%EB%B0%B1%EC%A4%80/%EA%B5%AC%EA%B0%84%ED%95%A9%EA%B5%AC%ED%95%98%EA%B8%B04/Main.java)
   - [개똥벌레](https://github.com/geniusYoo/TIL/blob/main/%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4/%EB%B0%B1%EC%A4%80/%EA%B0%9C%EB%98%A5%EB%B2%8C%EB%A0%88/Main.java)
-
   - [오큰수](https://github.com/geniusYoo/TIL/blob/main/%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4/%EB%B0%B1%EC%A4%80/%EC%98%A4%ED%81%B0%EC%88%98/Main.java)
 <br>
 
