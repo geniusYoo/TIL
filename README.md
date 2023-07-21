@@ -26,6 +26,7 @@
 - [1강 : 시간,공간 복잡도와 Prefix Sum](https://github.com/geniusYoo/TIL/blob/main/%EC%A0%95%EB%A6%AC%EB%85%B8%ED%8A%B8/1%EA%B0%95%20-%20%EC%8B%9C%EA%B0%84%2C%20%EA%B3%B5%EA%B0%84%20%EB%B3%B5%EC%9E%A1%EB%8F%84%EC%99%80%20Prefix%20Sum.md)
 - [2강 : Array, ArrayList, Queue, Deque](https://github.com/geniusYoo/TIL/blob/main/%EC%A0%95%EB%A6%AC%EB%85%B8%ED%8A%B8/2%EA%B0%95%20-%20Array%2C%20ArrayList%2C%20Queue%2C%20Deque.md)
 - [3강 : Stack](https://github.com/geniusYoo/TIL/blob/main/%EC%A0%95%EB%A6%AC%EB%85%B8%ED%8A%B8/3%EA%B0%95%20-%20Stack.md)
+- [4강 : Sorting](https://github.com/geniusYoo/TIL/blob/main/%EC%A0%95%EB%A6%AC%EB%85%B8%ED%8A%B8/4%EC%9E%A5%20-%20Sorting.md)
 <br>
 
 ## **문제 풀이**
