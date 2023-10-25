@@ -28,7 +28,7 @@
 - [3강 : Stack](https://github.com/geniusYoo/TIL/blob/main/%EC%A0%95%EB%A6%AC%EB%85%B8%ED%8A%B8/3%EA%B0%95%20-%20Stack.md)
 - [4강 : Sorting](https://github.com/geniusYoo/TIL/blob/main/%EC%A0%95%EB%A6%AC%EB%85%B8%ED%8A%B8/4%EC%9E%A5%20-%20Sorting.md)
 - [5강 : Priority Queue](https://github.com/geniusYoo/TIL/blob/main/%EC%A0%95%EB%A6%AC%EB%85%B8%ED%8A%B8/5%EC%9E%A5%20-%20Priority%20Queue.md)
-- [6강 : HashMap]((https://github.com/geniusYoo/TIL/blob/main/%EC%A0%95%EB%A6%AC%EB%85%B8%ED%8A%B8/6%EC%9E%A5%20-%20HashMap.md))
+- [6강 : HashMap](https://github.com/geniusYoo/TIL/blob/main/%EC%A0%95%EB%A6%AC%EB%85%B8%ED%8A%B8/6%EC%9E%A5%20-%20HashMap.md)
 <br>
 
 
