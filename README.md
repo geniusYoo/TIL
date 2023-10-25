@@ -27,17 +27,8 @@
 - [2강 : Array, ArrayList, Queue, Deque](https://github.com/geniusYoo/TIL/blob/main/%EC%A0%95%EB%A6%AC%EB%85%B8%ED%8A%B8/2%EA%B0%95%20-%20Array%2C%20ArrayList%2C%20Queue%2C%20Deque.md)
 - [3강 : Stack](https://github.com/geniusYoo/TIL/blob/main/%EC%A0%95%EB%A6%AC%EB%85%B8%ED%8A%B8/3%EA%B0%95%20-%20Stack.md)
 - [4강 : Sorting](https://github.com/geniusYoo/TIL/blob/main/%EC%A0%95%EB%A6%AC%EB%85%B8%ED%8A%B8/4%EC%9E%A5%20-%20Sorting.md)
+- [5강 : Priority Queue](https://github.com/geniusYoo/TIL/blob/main/%EC%A0%95%EB%A6%AC%EB%85%B8%ED%8A%B8/5%EC%9E%A5%20-%20Priority%20Queue.md)
+- [6강 : HashMap]((https://github.com/geniusYoo/TIL/blob/main/%EC%A0%95%EB%A6%AC%EB%85%B8%ED%8A%B8/6%EC%9E%A5%20-%20HashMap.md))
 <br>
 
-## **문제 풀이**
-- 백준
-  - [구간 합 구하기 4](https://github.com/geniusYoo/TIL/blob/main/%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4/%EB%B0%B1%EC%A4%80/%EA%B5%AC%EA%B0%84%ED%95%A9%EA%B5%AC%ED%95%98%EA%B8%B04/Main.java)
-  - [개똥벌레](https://github.com/geniusYoo/TIL/blob/main/%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4/%EB%B0%B1%EC%A4%80/%EA%B0%9C%EB%98%A5%EB%B2%8C%EB%A0%88/Main.java)
-  - [오큰수](https://github.com/geniusYoo/TIL/blob/main/%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4/%EB%B0%B1%EC%A4%80/%EC%98%A4%ED%81%B0%EC%88%98/Main.java)
-<br>
 
-- 프로그래머스
-  - [캐시](https://github.com/geniusYoo/TIL/blob/main/%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/%EC%BA%90%EC%8B%9C/Main.java)
-  - [행렬과 연산](https://github.com/geniusYoo/TIL/blob/main/%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/%ED%96%89%EB%A0%AC%EA%B3%BC%EC%97%B0%EC%82%B0/Main.java)
-  - [올바른 괄호](https://github.com/geniusYoo/TIL/blob/main/%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/%EC%98%AC%EB%B0%94%EB%A5%B8%20%EA%B4%84%ED%98%B8/Main.java)
-<br>
