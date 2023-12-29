@@ -7,7 +7,9 @@
 
 [HashMap vs TreeMap](https://github.com/geniusYoo/TIL/blob/main/SpringBoot/HashMap_TreeMap.md)
 
+[LocalDate, LocalDateTime, Timestamp](https://github.com/geniusYoo/TIL/blob/main/SpringBoot/LocalDate%2C%20LocalDateTime%2C%20Timestamp.md)
 
+[Key, Value 쌍을 중첩 정렬하기 (Feat.TreeMap, ArrayList)](https://github.com/geniusYoo/TIL/blob/main/SpringBoot/Key%2C%20Value%20%EC%8C%8D%EC%9D%84%20%EC%A4%91%EC%B2%A9%20%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0%20(Feat.TreeMap%2C%20ArrayList).md)
 
 <br>
 
@@ -57,6 +59,10 @@
 [Priority Queue](https://github.com/geniusYoo/TIL/blob/main/%EC%A0%95%EB%A6%AC%EB%85%B8%ED%8A%B8/5%EC%9E%A5%20-%20Priority%20Queue.md)
 
 [HashMap](https://github.com/geniusYoo/TIL/blob/main/%EC%A0%95%EB%A6%AC%EB%85%B8%ED%8A%B8/6%EC%9E%A5%20-%20HashMap.md)
+
 <br>
+
+## Dev Tips
+[Intellij에서 DB 복사하기](https://github.com/geniusYoo/TIL/blob/main/Dev%20Tips/Intellij%EC%97%90%EC%84%9C%20DB%20%EB%B3%B5%EC%82%AC%ED%95%98%EA%B8%B0.md)
 
 
