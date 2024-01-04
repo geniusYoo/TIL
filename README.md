@@ -15,6 +15,8 @@
 
 [String "+" 연산자보다는 StringBuilder를 쓰자!](https://github.com/geniusYoo/TIL/blob/main/SpringBoot/String%20%22%2B%22%20%EC%97%B0%EC%82%B0%EC%9E%90%EB%B3%B4%EB%8B%A4%EB%8A%94%20StringBuilder%EB%A5%BC%20%EC%93%B0%EC%9E%90!.md)
 
+[@PathVariable에서 "#" 처리하기](https://github.com/geniusYoo/TIL/blob/main/SpringBoot/%40PathVariable%EC%97%90%EC%84%9C%20%22%23%22%20%EC%B2%98%EB%A6%AC%ED%95%98%EA%B8%B0.md)
+
 
 <br>
 
